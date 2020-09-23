@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Quantum Barcelona Community Code of Conduct
 
 ## 1. Purpose
 
